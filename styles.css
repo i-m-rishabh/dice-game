@@ -1,0 +1,37 @@
+body{
+    background-color: grey;
+}
+.container{
+    padding: 2% 5%;
+}
+.col{
+    display: inline-block;
+    text-align: center;
+    padding: 4% 0;
+}
+.text{
+    text-align: center;
+    font-weight: bold;
+    color: rgb(209, 2, 2);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.lg-text{
+    font-size: 4rem;
+}
+.sm-text{
+    font-size: 0.7rem;
+    
+}
+.player-title-text{
+    font-size: 2rem;
+    color: brown;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.button{
+    text-align: center;
+    padding-top: 5% auto;
+    
+}
+.footer{
+    margin-top: 9%;
+}
